@@ -8,11 +8,14 @@ class String
   end
 
   def question?
-    "What's your name?".end_with?("?")
+  "What's your name?".end_with?("?")
+  "Happy Halloween!".end_with?("?")
+    
 
   end
 
   def exclamation?
+    
 
   end
 
