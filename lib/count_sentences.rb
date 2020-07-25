@@ -2,6 +2,6 @@ require 'pry'
 
 class String
  def sentence?
-   sef.end_with?(".")
+   self.end_with?(".")
  end 
    
