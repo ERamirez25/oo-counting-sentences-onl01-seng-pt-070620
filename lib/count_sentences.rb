@@ -13,7 +13,7 @@ class String
     end
 
   def exclamation?
-    
+    "Hi, my name is Sophie!".end_with?("!")
 
   end
 
