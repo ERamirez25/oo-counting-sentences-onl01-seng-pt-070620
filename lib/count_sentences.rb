@@ -4,8 +4,10 @@ class String
  def sentence?
    self.end_with?(".")
    
-   def question?
+  
+ end 
+ end 
+ 
+  def question?
      self.end_with?("?")
- end 
- end 
-   
+   end 
